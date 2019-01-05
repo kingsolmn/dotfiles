@@ -1,4 +1,7 @@
+
 alias gti='git'
+
+alias matrix='cmatrix -abos'
 alias tmux='tmux -2'
 alias less='less -R'
 alias diff='colordiff'
