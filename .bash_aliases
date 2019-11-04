@@ -12,3 +12,17 @@ alias yams='find . -type f -name "*.yml*" | sed "s|\./||g" | egrep -v "(\.kitche
 alias glog='git log --oneline --graph --color --all --decorate'
 
 alias ll='ls --color=always -lAhp'
+
+# ----------
+# Linode Server Connection Scripts
+# ----------
+
+# Alderaan
+alias alderaan="~/dotfiles/alderaan.sh"
+
+# Tatooine
+alias tatooine="~/dotfiles/tatooine.sh"
+
+# ----------
+# End Linode Connection Scripts
+# ----------
